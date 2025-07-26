@@ -1,7 +1,7 @@
 # INTELLIMATE 🤖
 *Your Intelligent AI Conversation Partner*
 
-[![Live Demo](https://intellimate-dmzf.onrender.com/)
+#🌐 Live Website: https://intellimate-dmzf.onrender.com/
 
 ---
 
